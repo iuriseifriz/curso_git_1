@@ -47,3 +47,8 @@ _**Melhoria 1, Melhoria2.**_
     x = x + 10
 }
 ```
+
+## Lista de tarefas
+- [x] Tarefa completa
+- [ ] Tarefa incompleta
+- [ ] Tarefa incompleta
