@@ -24,3 +24,7 @@ _**Melhoria 1, Melhoria2.**_
 * item 1
 * item 2
 * item 3
+
+## Imagem local
+
+![logo de Python](img/python.png)
