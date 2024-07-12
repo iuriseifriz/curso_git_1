@@ -5,3 +5,7 @@ Vamos criar um _e-commerce_ para a **empresa X**.
 ## Funcionalidades:
 
 Checkout, Tela de produto, Catálogo, *etc.*
+
+###### Melhorias:
+
+_**Melhoria 1, Melhoria2.**_
